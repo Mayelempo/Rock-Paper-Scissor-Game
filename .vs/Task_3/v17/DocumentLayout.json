@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITRANSITION\\INTERNSHIP\\Intership Projects\\Task-2\\Task_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{496BF44D-A2C4-4FC2-B842-524F85DA74CC}|Task_3.csproj|d:\\itransition\\internship\\intership projects\\task-2\\task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496BF44D-A2C4-4FC2-B842-524F85DA74CC}|Task_3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496BF44D-A2C4-4FC2-B842-524F85DA74CC}|Task_3.csproj|d:\\itransition\\internship\\intership projects\\task-2\\task_3\\hmacgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496BF44D-A2C4-4FC2-B842-524F85DA74CC}|Task_3.csproj|solutionrelative:hmacgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496BF44D-A2C4-4FC2-B842-524F85DA74CC}|Task_3.csproj|d:\\itransition\\internship\\intership projects\\task-2\\task_3\\keygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496BF44D-A2C4-4FC2-B842-524F85DA74CC}|Task_3.csproj|solutionrelative:keygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496BF44D-A2C4-4FC2-B842-524F85DA74CC}|Task_3.csproj|d:\\itransition\\internship\\intership projects\\task-2\\task_3\\gamerules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496BF44D-A2C4-4FC2-B842-524F85DA74CC}|Task_3.csproj|solutionrelative:gamerules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496BF44D-A2C4-4FC2-B842-524F85DA74CC}|Task_3.csproj|d:\\itransition\\internship\\intership projects\\task-2\\task_3\\helptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496BF44D-A2C4-4FC2-B842-524F85DA74CC}|Task_3.csproj|solutionrelative:helptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KeyGenerator.cs",
+              "DocumentMoniker": "D:\\ITRANSITION\\INTERNSHIP\\Intership Projects\\Task-2\\Task_3\\KeyGenerator.cs",
+              "RelativeDocumentMoniker": "KeyGenerator.cs",
+              "ToolTip": "D:\\ITRANSITION\\INTERNSHIP\\Intership Projects\\Task-2\\Task_3\\KeyGenerator.cs",
+              "RelativeToolTip": "KeyGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T22:17:55.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HMACGenerator.cs",
+              "DocumentMoniker": "D:\\ITRANSITION\\INTERNSHIP\\Intership Projects\\Task-2\\Task_3\\HMACGenerator.cs",
+              "RelativeDocumentMoniker": "HMACGenerator.cs",
+              "ToolTip": "D:\\ITRANSITION\\INTERNSHIP\\Intership Projects\\Task-2\\Task_3\\HMACGenerator.cs",
+              "RelativeToolTip": "HMACGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T22:17:15.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HelpTable.cs",
+              "DocumentMoniker": "D:\\ITRANSITION\\INTERNSHIP\\Intership Projects\\Task-2\\Task_3\\HelpTable.cs",
+              "RelativeDocumentMoniker": "HelpTable.cs",
+              "ToolTip": "D:\\ITRANSITION\\INTERNSHIP\\Intership Projects\\Task-2\\Task_3\\HelpTable.cs",
+              "RelativeToolTip": "HelpTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T22:14:42.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameRules.cs",
+              "DocumentMoniker": "D:\\ITRANSITION\\INTERNSHIP\\Intership Projects\\Task-2\\Task_3\\GameRules.cs",
+              "RelativeDocumentMoniker": "GameRules.cs",
+              "ToolTip": "D:\\ITRANSITION\\INTERNSHIP\\Intership Projects\\Task-2\\Task_3\\GameRules.cs",
+              "RelativeToolTip": "GameRules.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T22:13:38.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITRANSITION\\INTERNSHIP\\Intership Projects\\Task-2\\Task_3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ITRANSITION\\INTERNSHIP\\Intership Projects\\Task-2\\Task_3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEsAAACAZWZmZmYEwFIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T17:05:11.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
